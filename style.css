@@ -1,0 +1,41 @@
+
+body {background-color: #330d00; margin: 1.5rem; font-family: cursive}
+
+html {font-size: 100% }
+
+.cover {background-color: #660000; width: 50%; text-align: center; margin: 4rem 0 0 20rem; box-shadow: 0 .5rem 1rem #000; border-radius: .2rem}
+      
+.select {margin-top: 5rem}
+
+.select-text {background: none; color: #ffffff; padding: .5rem; border: .1rem solid; border-radius: .2rem}
+      
+.conversion {margin: 2.5rem 0 2.5rem 0}
+      
+.btn {padding: .5rem; margin: 3rem 0 3rem 0; background: none; border: .1rem solid #ffffff; color: #ffffff; border-radius: .2rem; font-weight: 600}
+      
+.btn:hover {cursor: pointer; background-color: #ffffff; color: #660000; box-shadow: 0 .5rem 1rem #000}
+      
+h2 {color: #ffffff; padding-top: 2rem}
+
+option {background-color: #330d00}
+      
+.conversion {color: #660000; background-color: #ffffff; font-weight: 800}
+      
+.messages {color: #660000; background:linear-gradient(60deg, #ffb3b3, #ffffff, #ffb3b3, #ffffff); font-weight: bold}
+
+@media (max-width: 1052px) {.cover {margin-left: 15rem;}}
+@media (max-width: 920px) {.cover {margin-left: 13rem;}}
+
+@media (max-width: 768px) {.cover {margin-left: 11rem;}}
+@media (max-width: 745px) {h2 {font-size: 1.2rem;}}
+
+@media (max-width: 425px) {.cover {margin-left: 6rem;}}
+@media (max-width: 425px) {h2 {font-size: 1rem;}
+@media (max-width: 425px) {.select-text {font-size: 10px}
+@media (max-width: 425px) {.btn {font-size: 10px;}
+
+@media (max-width: 320px) {.select-text {font-size: 8px;}
+@media (max-width: 320px) {h2 {font-size: 15px;}
+@media (max-width: 320px) {.cover {margin-left: 4rem;}
+
+ 
