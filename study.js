@@ -1,12 +1,31 @@
+  
   const currencies = [{
+        id: 'AUD', name: 'Australian Dollars'
+      },{
+        id: 'BTC', name: 'Bitcoin'
+      },{
+        id: 'CAD', name: 'Canadian Dollars'
+      },{
+        id: 'CHF', name: 'Swiss Franc'
+      },{
+        id: 'CNY', name: 'Chinese Renminbi'
+      },{
         id: 'USD', name: 'US Dollars'
-      }, {
+      },{
+        id: 'EUR', name: 'Euro'
+      },{
+        id: 'GBP', name: 'British Pounds Sterling'
+      },{
+        id: 'JPY', name: 'Japanese Yen'
+      },{
         id: 'UGX', name: 'Ugandan Shillings'
       }, {
         id: 'KES', name: 'Kenyan Shillings'
       }, {
         id: 'GHS', name: 'Ghanian Cedi'
-      }, {
+      },{
+        id: 'RUB', name: 'Russian Ruble'
+      },{
         id: 'ZAR', name: 'South African Rand'
       }];
       
